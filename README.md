@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mouleshleo
-- 👀 I’m interested in learning
+- 👀 I’m interested in learning new things
 - 🌱 I’m currently learning web development
 - 📫 How to reach me: mouleshleo06@gmail.com
 
