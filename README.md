@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mouleshleo
 - 👀 I’m interested in learning new things
 - 🐧 I use Linux btw 
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning backend development
 - 📫 How to reach me: mouleshleo06@gmail.com
 <!---
 mouleshleo/mouleshleo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
