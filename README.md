@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mouleshleo
 - 👀 I’m interested in learning new things
 - 🐧 I use Linux btw 
-- 🌱 I’m currently learning backend development
+- 🌱 I’m currently learning frontend & backend development
 - 👊 trying to unacting acting
 - 📫 How to reach me: mouleshleo06@gmail.com
 <!---
